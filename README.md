@@ -7,7 +7,8 @@
     </pre>
     </td>
     <td style="text-align: right; width: 50%;">
-      <img src="https://images.app.goo.gl/xKikhJWMmyn3qrJu6" alt="Computer Work GIF" width="500"/>
+      <img src="![image](https://github.com/user-attachments/assets/a9ec82b7-3e50-4454-8894-cd261e1e47fa)
+" alt="Computer Work GIF" width="500"/>
     </td>
   </tr>
 </table>
