@@ -7,7 +7,7 @@
     </pre>
     </td>
     <td style="text-align: right; width: 50%;">
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F599260294198122016%2F&psig=AOvVaw28KO-nYSk3w3ycwyfSjASm&ust=1739812746534000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjA_pDX2ciLAxWcXGcHHVqZIK4QjRx6BAgAEBg" alt="Computer Work GIF" width="500"/>
+      <img src="https://images.app.goo.gl/xKikhJWMmyn3qrJu6" alt="Computer Work GIF" width="500"/>
     </td>
   </tr>
 </table>
