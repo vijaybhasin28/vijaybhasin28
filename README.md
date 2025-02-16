@@ -1,9 +1,10 @@
 <table width="100%">
   <tr>
-    <td style="text-align: left; width: 50%;">
+    <td style="text-align: left; width: 50%;"><pre>
      - 🚀 AI & ML Enthusiast | Semiconductor Innovator | Data Science & Automation Expert      
      - 🎓 B.Tech (AI) | BS (Programming & Data Science) @ IIT Madras          
      - 💡 Passionate about AI-driven solutions, deep learning, and RPA automation
+    </pre>
     </td>
     <td style="text-align: right; width: 50%;">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFu2NdyD_kgM6M4GA-7Lij5o2V3bg6Zy1jpF7wmPXq2vkdsszA6UAO4173yuq3And63sI&usqp=CAU" alt="Computer Work GIF" width="500"/>
