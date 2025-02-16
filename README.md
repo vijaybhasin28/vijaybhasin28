@@ -7,7 +7,7 @@
     </pre>
     </td>
     <td style="text-align: right; width: 30%;">
-      <img src="https://i.pinimg.com/originals/0c/ba/f2/0cbaf2966dbc9b332b06db462053c487.gif" alt="Computer Work GIF" width="500"/>
+      <img src="https://i.pinimg.com/originals/0c/ba/f2/0cbaf2966dbc9b332b06db462053c487.gif" alt="Computer Work GIF" width="200"/>
     </td>
   </tr>
 </table>
