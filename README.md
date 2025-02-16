@@ -1,8 +1,8 @@
 <table width="100%">
   <tr>
     <td style="text-align: left; width: 70%;"><pre>
-     - 🚀 AI & ML Enthusiast | Semiconductor Innovator | Data Science & Automation Expert      
-     - 🎓 B.Tech (AI) | BS (Programming & Data Science) @ IIT Madras          
+     - 🚀 AI & ML Enthusiast | Semiconductor Innovator | Data Science & Automation Expert
+     - 🎓 B.Tech (AI) | BS (Programming & Data Science) @ IIT Madras
      - 💡 Passionate about AI-driven solutions, deep learning, and RPA automation
     </pre>
     </td>
